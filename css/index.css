@@ -176,5 +176,5 @@ a {
 }
 
 .asdf {
-  color: brown;
+  color: var(--pink);
 }/*# sourceMappingURL=index.css.map */
