@@ -245,33 +245,15 @@ a {
 .about {
   padding-top: 60px;
 }
-@media screen and (min-width: 768px) {
-  .about {
-    max-width: 768px;
-  }
-}
-@media screen and (min-width: 1200px) {
-  .about {
-    max-width: 1200px;
-  }
-}
-
 .advantages {
   padding-top: 40px;
   padding-bottom: 60px;
 }
 @media screen and (min-width: 768px) {
   .advantages {
-    max-width: 768px;
     padding-top: 60px;
   }
 }
-@media screen and (min-width: 1200px) {
-  .advantages {
-    max-width: 1200px;
-  }
-}
-
 .label {
   display: block;
   color: var(--secondary-clr);

@@ -116,11 +116,11 @@ $lh: 1.62;
     
 
     @media screen and (min-width: $tablet) {
-        max-width: $tablet; 
+      
     }
 
     @media screen and (min-width: $comp) {
-        max-width: $comp; 
+       
                
       }
 }
@@ -130,10 +130,10 @@ $lh: 1.62;
     padding-bottom: 60px;
 
     @media screen and (min-width: $tablet) {
-        max-width: $tablet; padding-top: 60px;
+         padding-top: 60px;
     }
     @media screen and (min-width: $comp) {
-        max-width: $comp;
+      
     }
 }
 
